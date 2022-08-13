@@ -1,0 +1,5 @@
+# Project exclude paths
+/node_modules/
+/auth/session
+/db/storage.db
+.env
